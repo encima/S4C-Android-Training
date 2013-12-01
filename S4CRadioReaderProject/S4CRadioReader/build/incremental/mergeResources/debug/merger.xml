@@ -52,6 +52,8 @@
                 </string>
                 <string name="hello_world" >Hello world!
                 </string>
+                <string name="json_url" >http://api.learn2crack.com/android/jsonos/
+                </string>
             </file>
             <file
                 path="/Users/encima/Development/android/S4C/S4CRadioReaderProject/S4CRadioReader/src/main/res/values/styles.xml"
@@ -103,6 +105,11 @@
                     <!-- API 14 theme customizations can go here. -->
                 </style>
             </file>
+            <file
+                name="list_v"
+                path="/Users/encima/Development/android/S4C/S4CRadioReaderProject/S4CRadioReader/src/main/res/layout/list_v.xml"
+                qualifiers=""
+                type="layout" />
         </source>
         <source path="/Users/encima/Development/android/S4C/S4CRadioReaderProject/S4CRadioReader/build/res/rs/debug" />
     </dataSet>
