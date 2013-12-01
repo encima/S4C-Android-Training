@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">S4C Radio Reader</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="radio_url">http://www.bbc.co.uk/radiowales/programmes/schedules/fm/upcoming.json</string>
+
+</resources>
