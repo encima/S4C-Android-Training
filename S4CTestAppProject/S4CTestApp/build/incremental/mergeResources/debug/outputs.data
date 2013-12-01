@@ -1,0 +1,13 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1385907320000 6120 ced3785afb467e5670c9c7db0d3a345d15454ea5 /Users/encima/Development/android/S4CTestAppProject/S4CTestApp/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1385907320000 1140 43fe35a0218b5a9999ffde9e826823fe8d319618 /Users/encima/Development/android/S4CTestAppProject/S4CTestApp/build/res/all/debug/values/values.xml
+1385907320000 1138 15f2eaaa978136b5b68493e96a5f0c0f38f2798f /Users/encima/Development/android/S4CTestAppProject/S4CTestApp/build/res/all/debug/layout/activity_main.xml
+1385907320000 325 fde862e93e76d93f749d97300094e519f8f3c6ab /Users/encima/Development/android/S4CTestAppProject/S4CTestApp/build/res/all/debug/values-v11/values.xml
+1385907320000 353 141513f623293eb89c90fd03f9461473d9cd834c /Users/encima/Development/android/S4CTestAppProject/S4CTestApp/build/res/all/debug/menu/main.xml
+1385907320000 3156 be9d6d2174e9cbaabca59e8090160434dbd60002 /Users/encima/Development/android/S4CTestAppProject/S4CTestApp/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1385907320000 339 e2fc507b3e10dd51eaacbf7ae746abbfd5002902 /Users/encima/Development/android/S4CTestAppProject/S4CTestApp/build/res/all/debug/values-v14/values.xml
+1385907320000 256 85f99b08fa40d17c67434b1de6e883b91968f14a /Users/encima/Development/android/S4CTestAppProject/S4CTestApp/build/res/all/debug/values-sw720dp-land/values.xml
+1385907320000 9487 7e58a59b9c3cf7a7a1df12376c329591dd31f5e4 /Users/encima/Development/android/S4CTestAppProject/S4CTestApp/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1385907320000 18087 8d35b7c0e81c9caf7ee547905d69c9542a08b87f /Users/encima/Development/android/S4CTestAppProject/S4CTestApp/build/res/all/debug/drawable-xxhdpi/ic_launcher.png

@@ -1,0 +1,20 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1385917057000 4597 8f13aed7d60df6f951b7fc99eaf06ae8522916ec /Users/encima/Development/android/S4C/TweetProject/S4CTweet/build/classes/debug/com/encima/s4c/s4ctweet/TweetActivity.class
+1385916156000 456 254128ce4cc2d042b2817ea6dd421216ad09bb42 /Users/encima/Development/android/S4C/TweetProject/S4CTweet/build/classes/debug/com/encima/s4c/s4ctweet/R$layout.class
+1385912617000 476 7b80c3d271c56a646ef2daf5ec93acdf569d1e4e /Users/encima/Development/android/S4C/TweetProject/S4CTweet/build/classes/debug/com/encima/s4c/s4ctweet/R$dimen.class
+1385916156000 487 8a8d1b7596465a53cf5d02c8ca507504d1502ed0 /Users/encima/Development/android/S4C/TweetProject/S4CTweet/build/classes/debug/com/encima/s4c/s4ctweet/R$string.class
+1385916156000 727 3372f6bb5db36dcf35dbd02c8f751dc63ffc5fdb /Users/encima/Development/android/S4C/TweetProject/S4CTweet/build/classes/debug/com/encima/s4c/s4ctweet/R.class
+1385912617000 422 879f58a7dace8db3eded0c2a97c3665bac5368c5 /Users/encima/Development/android/S4C/TweetProject/S4CTweet/build/classes/debug/com/encima/s4c/s4ctweet/R$drawable.class
+1385912617000 476 d47725740a27642862e2b67d489c0458b2abc3b8 /Users/encima/Development/android/S4C/TweetProject/S4CTweet/build/classes/debug/com/encima/s4c/s4ctweet/BuildConfig.class
+1385917534000 4218 a518befddc3b754963d4f99f77689da8d12ce71c /Users/encima/Development/android/S4C/TweetProject/S4CTweet/build/classes/debug/com/encima/s4c/s4ctweet/MainActivity.class
+1385916913000 1161 355e82ddadc57a6b462f307c5f82dc6be22717a7 /Users/encima/Development/android/S4C/TweetProject/S4CTweet/build/classes/debug/com/encima/s4c/s4ctweet/TweetActivity$1.class
+1382920618000 288608 5999e1915b61b30c9fc40d5d1971906bb68aca6c /Users/encima/Development/android/S4C/TweetProject/S4CTweet/libs/twitter4j-core-3.0.5.jar
+1385916156000 446 06a413760f3fb28c9210e35b2427f94561d19f30 /Users/encima/Development/android/S4C/TweetProject/S4CTweet/build/classes/debug/com/encima/s4c/s4ctweet/R$style.class
+1369432937000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1385917057000 1059 62c743bcfeb60a09c126e0d64dc90a16def9b7ef /Users/encima/Development/android/S4C/TweetProject/S4CTweet/build/classes/debug/com/encima/s4c/s4ctweet/MainActivity$1.class
+1385912617000 355 b8c9e9a2614b13a7ab078cac5f27407029bf1382 /Users/encima/Development/android/S4C/TweetProject/S4CTweet/build/classes/debug/com/encima/s4c/s4ctweet/R$attr.class
+1385916156000 563 23470f4bf92afc7337f9f3a741448f082f9a9b6b /Users/encima/Development/android/S4C/TweetProject/S4CTweet/build/classes/debug/com/encima/s4c/s4ctweet/R$id.class
+1385916156000 403 3bb59b9ac175472d75db35a7cb8d56d7fd7903e5 /Users/encima/Development/android/S4C/TweetProject/S4CTweet/build/classes/debug/com/encima/s4c/s4ctweet/R$menu.class
+1385917057000 1410 24b01c0dac1cedeb1bc02451e15365c24973fbb4 /Users/encima/Development/android/S4C/TweetProject/S4CTweet/build/classes/debug/com/encima/s4c/s4ctweet/TweetActivity$2.class
